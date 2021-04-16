@@ -1,0 +1,6 @@
+12:29:14.310 [TestNG-tests-2] DEBUG resources.PreRequisite - driver initialized class SignInPageValidation SignInPageCheck()
+12:29:14.429 [TestNG-tests-1] INFO  resources.PreRequisite - 
+12:29:21.509 [TestNG-tests-2] DEBUG resources.PreRequisite - getting into signin page
+12:35:53.104 [TestNG-tests-1] DEBUG resources.PreRequisite - running initialRun() and Driver Initialized
+12:36:02.571 [TestNG-tests-1] DEBUG resources.PreRequisite - running initialRun() and home page URL Initialized 
+12:36:02.571 [TestNG-tests-1] DEBUG resources.PreRequisite - chrome

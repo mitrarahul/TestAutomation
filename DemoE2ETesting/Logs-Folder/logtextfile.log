@@ -1,0 +1,3 @@
+12:36:03.786 [TestNG-tests-1] INFO  resources.PreRequisite - 
+12:36:04.659 [TestNG-tests-2] DEBUG resources.PreRequisite - driver initialized class SignInPageValidation SignInPageCheck()
+12:36:13.357 [TestNG-tests-2] DEBUG resources.PreRequisite - getting into signin page

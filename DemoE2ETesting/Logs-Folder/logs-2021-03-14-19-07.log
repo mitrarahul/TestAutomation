@@ -1,0 +1,6 @@
+18:55:26.917 [TestNG-tests-1] DEBUG resources.PreRequisite - running initialRun() and home page URL Initialized
+18:55:27.111 [TestNG-tests-1] INFO  resources.PreRequisite - 
+18:55:31.661 [TestNG-tests-2] DEBUG resources.PreRequisite - getting into sinin page
+19:07:01.073 [main] DEBUG resources.PreRequisite - running initialRun() and Driver Initialized
+19:07:08.628 [main] DEBUG resources.PreRequisite - running initialRun() and home page URL Initialized 
+19:07:08.629 [main] DEBUG resources.PreRequisite - chrome

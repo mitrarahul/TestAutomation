@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T12:35:49 IST" name="Suite" finished-at="2021-04-07T12:36:50 IST" duration-ms="60971">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T12:35:49 IST" name="Test HomePageValidation" finished-at="2021-04-07T12:36:08 IST" duration-ms="19345">
+      <class name="AutomationProject.DemoE2ETesting.HomePageValidation">
+        <test-method is-config="true" signature="initialRun()[pri:0, instance:AutomationProject.DemoE2ETesting.HomePageValidation@4189d70b]" started-at="2021-04-07T12:35:49 IST" name="initialRun" finished-at="2021-04-07T12:36:02 IST" duration-ms="13238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialRun -->
+        <test-method signature="homePageNavigation()[pri:0, instance:AutomationProject.DemoE2ETesting.HomePageValidation@4189d70b]" started-at="2021-04-07T12:36:02 IST" name="homePageNavigation" finished-at="2021-04-07T12:36:03 IST" duration-ms="1361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageNavigation -->
+        <test-method signature="SIgnInPageCheck()[pri:0, instance:AutomationProject.DemoE2ETesting.HomePageValidation@4189d70b]" started-at="2021-04-07T12:36:03 IST" name="SIgnInPageCheck" finished-at="2021-04-07T12:36:04 IST" depends-on-methods="AutomationProject.DemoE2ETesting.HomePageValidation.homePageNavigation" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SIgnInPageCheck -->
+        <test-method is-config="true" signature="Shutdown()[pri:0, instance:AutomationProject.DemoE2ETesting.HomePageValidation@4189d70b]" started-at="2021-04-07T12:36:04 IST" name="Shutdown" finished-at="2021-04-07T12:36:08 IST" duration-ms="4509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shutdown -->
+      </class> <!-- AutomationProject.DemoE2ETesting.HomePageValidation -->
+    </test> <!-- Test HomePageValidation -->
+    <test started-at="2021-04-07T12:35:49 IST" name="Test SignInPageValidation" finished-at="2021-04-07T12:36:50 IST" duration-ms="60971">
+      <class name="AutomationProject.DemoE2ETesting.SignInPageValidation">
+        <test-method is-config="true" signature="SignInPageCheck()[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:35:49 IST" name="SignInPageCheck" finished-at="2021-04-07T12:36:04 IST" duration-ms="15326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInPageCheck -->
+        <test-method is-config="true" signature="signInPageNavigation()[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:36:04 IST" name="signInPageNavigation" finished-at="2021-04-07T12:36:13 IST" duration-ms="8697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPageNavigation -->
+        <test-method signature="SignInFieldsCheck(java.lang.String, java.lang.String)[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:36:13 IST" name="SignInFieldsCheck" data-provider="signinCheck" finished-at="2021-04-07T12:36:14 IST" duration-ms="691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInFieldsCheck -->
+        <test-method signature="SignInFieldsCheck(java.lang.String, java.lang.String)[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:36:14 IST" name="SignInFieldsCheck" data-provider="signinCheck" finished-at="2021-04-07T12:36:46 IST" duration-ms="32813" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wert]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8498/*/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInFieldsCheck -->
+        <test-method signature="SignInFieldsCheck(java.lang.String, java.lang.String)[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:36:46 IST" name="SignInFieldsCheck" data-provider="signinCheck" finished-at="2021-04-07T12:36:49 IST" duration-ms="2544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdsd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInFieldsCheck -->
+        <test-method is-config="true" signature="close()[pri:0, instance:AutomationProject.DemoE2ETesting.SignInPageValidation@52045dbe]" started-at="2021-04-07T12:36:49 IST" name="close" finished-at="2021-04-07T12:36:50 IST" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- AutomationProject.DemoE2ETesting.SignInPageValidation -->
+    </test> <!-- Test SignInPageValidation -->
+  </suite> <!-- Suite -->
+</testng-results>

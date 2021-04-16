@@ -1,0 +1,5 @@
+resources\ExtentReportTestNG.class
+resources\PreRequisite.class
+pageObjects\HomePageObjects.class
+AutomationProject\DemoE2ETesting\App.class
+pageObjects\SignInPageObjects.class

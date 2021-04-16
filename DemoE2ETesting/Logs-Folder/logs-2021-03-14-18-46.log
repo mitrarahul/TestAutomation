@@ -1,0 +1,6 @@
+18:23:20.766 [main] ERROR resources.PreRequisite - Execution failed at 1
+18:23:21.269 [main] INFO  resources.PreRequisite - 
+18:44:52.535 [main] DEBUG resources.PreRequisite - running initialRun() and Driver Initialized
+18:44:55.851 [main] DEBUG resources.PreRequisite - running initialRun() and home page URL Initialized
+18:45:05.462 [main] DEBUG resources.PreRequisite - driver initialized class SignInPageValidation SignInPageCheck()
+18:45:15.849 [main] DEBUG resources.PreRequisite - getting into sinin page
